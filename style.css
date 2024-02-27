@@ -15,7 +15,8 @@ body {
     min-width: 800px;
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
 }
 
@@ -48,4 +49,9 @@ h1, h2 {
 
 ul>li {
     list-style: none;
+}
+
+.wrong {
+    color: red;
+    font-weight: bold;
 }
